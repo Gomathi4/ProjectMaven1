@@ -20,6 +20,13 @@ public class Project {
 	public void canada() {
 		System.out.println("canada");
 	}
+	public void tamilnadu() {
+		System.out.println("tamilnadu");
+	}
+	public void kerala() {
+		System.out.println("kerala");
+	}
+
 	public void korea() {
 		System.out.println("korea");
 	}
