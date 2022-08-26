@@ -26,15 +26,6 @@ public class Project {
 	public void kerala() {
 		System.out.println("kerala");
 	}
-	public void punjab() {
-		System.out.println("punjab");
-	}
-	public void haryana() {
-		System.out.println("haryana");
-	}
-	public void anthra() {
-		System.out.println("anthra");
-	}
 
 
 }
