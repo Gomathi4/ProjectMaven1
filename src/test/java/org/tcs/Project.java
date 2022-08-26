@@ -27,5 +27,11 @@ public class Project {
 		System.out.println("kerala");
 	}
 
+	public void korea() {
+		System.out.println("korea");
+	}
+	public void japan() {
+		System.out.println("japan");
+	}
 
 }
